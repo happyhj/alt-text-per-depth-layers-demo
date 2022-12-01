@@ -1,0 +1,36 @@
+.Details {
+
+}
+
+.Details-back-button {
+  display: block;
+  border: 2px solid black;
+  padding: 15px;
+  text-decoration: none; /* no underline */
+  color: black;
+  margin: 15px;
+  text-align: center;
+  width: fit-content;
+}
+
+.Details-back-button:hover {
+  color: white;
+  background: black;
+}
+
+.Details-main-img {
+  width: 100%;
+}
+
+.Details-dimensions--container {
+  margin: 15px;
+  display: flex;
+  /* flex: content; */
+  justify-content: space-between;
+}
+
+.Details-dimensions-img {
+  /* display: inline-block; */
+  width: 32%;
+  /* margin-right: 8px; */
+}

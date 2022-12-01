@@ -1,0 +1,18 @@
+.Home {
+
+}
+
+.Home-button {
+  display: block;
+  border: 2px solid black;
+  padding: 15px;
+  text-decoration: none; /* no underline */
+  color: black;
+  margin: 16px;
+  text-align: center;
+}
+
+.Home-button:hover {
+  color: white;
+  background: black;
+}
