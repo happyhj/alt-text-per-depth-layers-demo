@@ -3,9 +3,11 @@ import image1Foreground from './images/image1/foreground.png';
 import image1Middleground from './images/image1/middleground.png';
 import image1Background from './images/image1/background.png';
 
+export const ROOT_PATH = "/alt-text-per-depth-layers-demo";
+
 export const IMAGE_CONFIGS = [
   {
-    path: "/image1_with_alt_text",
+    path: "image1_with_alt_text",
     title: "First image with Alt Text",
     main: {
       image: image1Main,
@@ -13,7 +15,7 @@ export const IMAGE_CONFIGS = [
     },
   },
   {
-    path: "/image1_with_dimensional_alt_text",
+    path: "image1_with_dimensional_alt_text",
     title: "First image with Dimensional Alt Text",
     main: {
       image: image1Main,

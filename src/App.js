@@ -6,18 +6,18 @@ import {
 } from "react-router-dom";
 import { Home } from './components/Home';
 import { Details } from './components/Details';
-import { IMAGE_CONFIGS } from './constants';
+import { IMAGE_CONFIGS, ROOT_PATH } from './constants';
 import './App.css';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: ROOT_PATH,
     element: <Home />,
   },
   ...IMAGE_CONFIGS.map(({
     path, main, foreground, middleground, background
   }) => ({
-    path, 
+    path: ROOT_PATH+"/"+path, 
     element: <Details main={main} foreground={foreground} middleground={middleground} background={background} />,
   })),
 ]);
