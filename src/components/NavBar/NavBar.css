@@ -1,0 +1,23 @@
+.NavBar {
+  margin: 15px;
+  display: flex;
+  /* flex: content; */
+  justify-content: space-between;
+}
+
+.NavBar-button {
+  display: inline-block;
+  border: 2px solid black;
+  padding: 15px;
+  text-decoration: none; /* no underline */
+  color: black;
+  /* margin: 16px; */
+  text-align: center;
+  width: fit-content;
+}
+
+.NavBar-button:hover,
+.NavBar-button.selected {
+  color: white;
+  background: black;
+}
