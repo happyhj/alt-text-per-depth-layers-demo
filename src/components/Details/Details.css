@@ -23,12 +23,12 @@
 }
 
 .Details-dimensions--container {
-  margin: 15px;
+  margin: 15px 0;
   text-align: center;
 }
 
 .Details-dimensions-img {
-  width: 32%;
+  width: 110px;
   margin-right: 8px;
 }
 
