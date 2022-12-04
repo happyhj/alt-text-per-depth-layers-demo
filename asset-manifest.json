@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alt-text-per-depth-layers-demo/static/css/main.322e8853.css",
-    "main.js": "/alt-text-per-depth-layers-demo/static/js/main.96370431.js",
+    "main.css": "/alt-text-per-depth-layers-demo/static/css/main.72f63a9c.css",
+    "main.js": "/alt-text-per-depth-layers-demo/static/js/main.5cd9efaa.js",
     "static/js/787.3a9ea2fa.chunk.js": "/alt-text-per-depth-layers-demo/static/js/787.3a9ea2fa.chunk.js",
-    "static/media/main.png": "/alt-text-per-depth-layers-demo/static/media/main.94413988310ce5df8797.png",
-    "static/media/background.png": "/alt-text-per-depth-layers-demo/static/media/background.f94076344ad86772273d.png",
-    "static/media/middleground.png": "/alt-text-per-depth-layers-demo/static/media/middleground.05aad9a462432d3a680d.png",
-    "static/media/foreground.png": "/alt-text-per-depth-layers-demo/static/media/foreground.b0a52c9cd021cf21dbcc.png",
+    "static/media/main.png": "/alt-text-per-depth-layers-demo/static/media/main.d80ea9e2d3a7059680f0.png",
+    "static/media/background.png": "/alt-text-per-depth-layers-demo/static/media/background.4cb766f2e526ffe4097d.png",
+    "static/media/foreground.png": "/alt-text-per-depth-layers-demo/static/media/foreground.0860ee01305dd0a94a2e.png",
+    "static/media/middleground.png": "/alt-text-per-depth-layers-demo/static/media/middleground.1b3b6d803f5e15e570f0.png",
     "index.html": "/alt-text-per-depth-layers-demo/index.html",
-    "main.322e8853.css.map": "/alt-text-per-depth-layers-demo/static/css/main.322e8853.css.map",
-    "main.96370431.js.map": "/alt-text-per-depth-layers-demo/static/js/main.96370431.js.map",
+    "main.72f63a9c.css.map": "/alt-text-per-depth-layers-demo/static/css/main.72f63a9c.css.map",
+    "main.5cd9efaa.js.map": "/alt-text-per-depth-layers-demo/static/js/main.5cd9efaa.js.map",
     "787.3a9ea2fa.chunk.js.map": "/alt-text-per-depth-layers-demo/static/js/787.3a9ea2fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.322e8853.css",
-    "static/js/main.96370431.js"
+    "static/css/main.72f63a9c.css",
+    "static/js/main.5cd9efaa.js"
   ]
 }
