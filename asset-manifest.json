@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alt-text-per-depth-layers-demo/static/css/main.7061be42.css",
+    "main.css": "/alt-text-per-depth-layers-demo/static/css/main.03c32869.css",
     "main.js": "/alt-text-per-depth-layers-demo/static/js/main.7fbb22e4.js",
     "static/js/787.3a9ea2fa.chunk.js": "/alt-text-per-depth-layers-demo/static/js/787.3a9ea2fa.chunk.js",
     "static/media/main.jpg": "/alt-text-per-depth-layers-demo/static/media/main.7dbd166b4d939e1c3c77.jpg",
@@ -8,12 +8,12 @@
     "static/media/middleground.jpg": "/alt-text-per-depth-layers-demo/static/media/middleground.410c6d8ab905a3d4e1d7.jpg",
     "static/media/foreground.jpg": "/alt-text-per-depth-layers-demo/static/media/foreground.50f185c0fd25b9ee9f7f.jpg",
     "index.html": "/alt-text-per-depth-layers-demo/index.html",
-    "main.7061be42.css.map": "/alt-text-per-depth-layers-demo/static/css/main.7061be42.css.map",
+    "main.03c32869.css.map": "/alt-text-per-depth-layers-demo/static/css/main.03c32869.css.map",
     "main.7fbb22e4.js.map": "/alt-text-per-depth-layers-demo/static/js/main.7fbb22e4.js.map",
     "787.3a9ea2fa.chunk.js.map": "/alt-text-per-depth-layers-demo/static/js/787.3a9ea2fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7061be42.css",
+    "static/css/main.03c32869.css",
     "static/js/main.7fbb22e4.js"
   ]
 }
