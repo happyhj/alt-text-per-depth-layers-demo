@@ -1,16 +1,16 @@
-import image1Main from './images/image1/main.png';
-import image1Foreground from './images/image1/foreground.png';
-import image1Middleground from './images/image1/middleground.png';
-import image1Background from './images/image1/background.png';
+import image1Main from './images/image1/main.jpg';
+import image1Foreground from './images/image1/foreground.jpg';
+import image1Middleground from './images/image1/middleground.jpg';
+import image1Background from './images/image1/background.jpg';
 
-import image2Main from './images/image2/main.png';
-import image2Foreground from './images/image2/foreground.png';
-import image2Middleground from './images/image2/middleground.png';
-import image2Background from './images/image2/background.png';
+import image2Main from './images/image2/main.jpg';
+import image2Foreground from './images/image2/foreground.jpg';
+import image2Middleground from './images/image2/middleground.jpg';
+import image2Background from './images/image2/background.jpg';
 
-import image3Main from './images/image3/main.png';
-import image3Foreground from './images/image3/foreground.png';
-import image3Background from './images/image3/background.png';
+import image3Main from './images/image3/main.jpg';
+import image3Foreground from './images/image3/foreground.jpg';
+import image3Background from './images/image3/background.jpg';
 
 
 export const ROOT_PATH = "/alt-text-per-depth-layers-demo";

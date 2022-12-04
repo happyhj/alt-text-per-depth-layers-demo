@@ -24,12 +24,14 @@
 
 .Details-dimensions--container {
   margin: 15px;
-  display: flex;
-  justify-content: space-evenly;
+  text-align: center;
 }
 
 .Details-dimensions-img {
-  /* display: inline-block; */
   width: 32%;
-  /* margin-right: 8px; */
+  margin-right: 8px;
+}
+
+.Details-dimensions-img:last-child {
+  margin-right: 0;
 }
