@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alt-text-per-depth-layers-demo/static/css/main.72f63a9c.css",
-    "main.js": "/alt-text-per-depth-layers-demo/static/js/main.5cd9efaa.js",
+    "main.css": "/alt-text-per-depth-layers-demo/static/css/main.7061be42.css",
+    "main.js": "/alt-text-per-depth-layers-demo/static/js/main.7fbb22e4.js",
     "static/js/787.3a9ea2fa.chunk.js": "/alt-text-per-depth-layers-demo/static/js/787.3a9ea2fa.chunk.js",
-    "static/media/main.png": "/alt-text-per-depth-layers-demo/static/media/main.d80ea9e2d3a7059680f0.png",
-    "static/media/background.png": "/alt-text-per-depth-layers-demo/static/media/background.4cb766f2e526ffe4097d.png",
-    "static/media/foreground.png": "/alt-text-per-depth-layers-demo/static/media/foreground.0860ee01305dd0a94a2e.png",
-    "static/media/middleground.png": "/alt-text-per-depth-layers-demo/static/media/middleground.1b3b6d803f5e15e570f0.png",
+    "static/media/main.jpg": "/alt-text-per-depth-layers-demo/static/media/main.7dbd166b4d939e1c3c77.jpg",
+    "static/media/background.jpg": "/alt-text-per-depth-layers-demo/static/media/background.8adf5ea6dea19f13473d.jpg",
+    "static/media/middleground.jpg": "/alt-text-per-depth-layers-demo/static/media/middleground.410c6d8ab905a3d4e1d7.jpg",
+    "static/media/foreground.jpg": "/alt-text-per-depth-layers-demo/static/media/foreground.50f185c0fd25b9ee9f7f.jpg",
     "index.html": "/alt-text-per-depth-layers-demo/index.html",
-    "main.72f63a9c.css.map": "/alt-text-per-depth-layers-demo/static/css/main.72f63a9c.css.map",
-    "main.5cd9efaa.js.map": "/alt-text-per-depth-layers-demo/static/js/main.5cd9efaa.js.map",
+    "main.7061be42.css.map": "/alt-text-per-depth-layers-demo/static/css/main.7061be42.css.map",
+    "main.7fbb22e4.js.map": "/alt-text-per-depth-layers-demo/static/js/main.7fbb22e4.js.map",
     "787.3a9ea2fa.chunk.js.map": "/alt-text-per-depth-layers-demo/static/js/787.3a9ea2fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72f63a9c.css",
-    "static/js/main.5cd9efaa.js"
+    "static/css/main.7061be42.css",
+    "static/js/main.7fbb22e4.js"
   ]
 }
