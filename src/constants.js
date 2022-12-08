@@ -17,14 +17,14 @@ export const ROOT_PATH = "/alt-text-per-depth-layers-demo";
 
 export const IMAGE_CONFIGS = [
   {
-    name: "A1",
+    name: "1A",
     main: {
       image: image1Main,
       altText: "A couple standing with Eilean Donan Castle in the distance",
     },
   },
   {
-    name: "A2",
+    name: "1B",
     main: {
       image: image1Main,
       altText: "A couple standing with Eilean Donan Castle in the distance. Tap the dimension thumbnails below for more details.",
@@ -43,14 +43,14 @@ export const IMAGE_CONFIGS = [
     },
   },
   {
-    name: "B1",
+    name: "2A",
     main: {
       image: image2Main,
       altText: "Vini Jr. celebrating his goal for the Brazilian team along with Neymar at Maracanã stadium.",
     },
   },
   {
-    name: "B2",
+    name: "2B",
     main: {
       image: image2Main,
       altText: "Vini Jr. celebrating his goal for the Brazilian team along with Neymar at Maracanã stadium. Tap the dimension thumbnails below for more details.",
@@ -69,14 +69,14 @@ export const IMAGE_CONFIGS = [
     },
   },
   {
-    name: "C1",
+    name: "3A",
     main: {
       image: image3Main,
       altText: "A happy couple taking intimate selfie near the Flat Iron Building.",
     },
   },
   {
-    name: "C2",
+    name: "3B",
     main: {
       image: image3Main,
       altText: "A happy couple taking intimate selfie near the Flat Iron Building. Tap the dimension thumbnails below for more details.",
